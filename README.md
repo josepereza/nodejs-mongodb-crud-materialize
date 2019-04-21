@@ -1,7 +1,7 @@
 # nodejs-mongodb-crud-materialize
-![Alt text](nodejs-moongo-materialize-crud.jpg)
-![Alt text](nodejs-moongo-materialize-crud2.png)
-![Alt text](nodejs-moongo-materialize-crud3.png)
+![Alt text](nodejs-mongo-materialize-crud.jpg)
+![Alt text](nodejs-mongo-materialize-crud2.png)
+![Alt text](nodejs-mongo-materialize-crud3.png)
 
 
 NODEJS - MONGODB-CRUD CON MATERIALIZE -IMAGEN DE FONDO Y SISTEMA DE BUSQUEDA POR NOMBRE O PARTE DE EL.
