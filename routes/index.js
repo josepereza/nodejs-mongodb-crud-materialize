@@ -59,6 +59,10 @@ router.post('/buscar',(req, res) => {
   console.log('hola')
   var name =req.body.name;
   console.log(name);
+    
+        // let cursor= collection.find({name:{$regex:'^a'}}); 
+        //registros donde el campo "name" comienze por "a"
+  
   db.collection('data').find({"name": {$regex:name, $options:'^'}}).toArray((err, results) => {
     if (err) return console.log(err)
     res.render('show.ejs', { data: results })
